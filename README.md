@@ -28,8 +28,6 @@ React to Alerts:
 When the budget threshold is exceeded, it is vital to investigate usage in Cost Management to identify high-spending resources or inefficient configurations (e.g., underutilised VMs).
 Recommends or implements optimisation measures, such as resizing VMs or scaling down unused resources.
 
-Outcome:
-
-The startup maintains control over Azure spending, avoiding unexpected bills and ensuring resources are used efficiently.
+Outcome: The startup maintains control over Azure spending, avoiding unexpected bills and ensuring resources are used efficiently.
 Tagging governance ensures accurate cost attribution across departments and projects, aiding in financial planning and transparency.
 As an IT administrator I provide proactive cloud governance, aligning with the organisations growth while maintaining compliance and cost efficiency.
